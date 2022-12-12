@@ -1,0 +1,78 @@
+<div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="true">
+        <div class="carousel-indicators">
+          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="3" aria-label="Slide 4"></button>
+          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="4" aria-label="Slide 5"></button>
+          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="5" aria-label="Slide 6"></button>
+          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="6" aria-label="Slide 7"></button>
+          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="7" aria-label="Slide 8"></button>
+        </div>
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img src="https://www.frotacia.com.br/wp-content/uploads/2018/01/59d66f946ae64.jpeg" style="width: 100%; height: 100%" class="d-block w-100" alt="...">
+            <div class="carousel-caption d-none d-md-block">
+              <h5 class="card-title">Caminhão Baú</h5>
+              <p class="card-text">Traduzido do inglês-Um caminhão de caixa - também conhecido como van de caixa, van cubo, caminhão bob ou caminhão cubo - é um caminhão de chassi com uma área de carga em forma de cubo fechado.</p>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <img src="https://cdn.autopapo.com.br/box/uploads/2021/01/19224834/caminhao-volvo-fh-pode-ser-lancado-no-brasil-em-2021-scaled.jpg" style="width: 100%; height: 100%" class="d-block w-100" alt="...">
+            <div class="carousel-caption d-none d-md-block">
+              <h5 class="card-title">Carreta Baú</h5>
+              <p class="card-text">Por ser uma carreta completamente fechada, fatores externos, como clima, vegetação e outros itens que podem causar danos acabam não impactando na mercadoria.</p>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <img src="https://www.autoo.com.br/fotos/2021/11/1280_960/fiorino1_26112021_68922_1280_960.jpg" style="width: 100%; height: 100%" class="d-block w-100" alt="...">
+            <div class="carousel-caption d-none d-md-block">
+              <h5 class="card-title">Fiorino</h5>
+              <p class="card-text">Fiat Fiorino é um automóvel comercial leve fabricado pela montadora italiana Fiat desde 1977, sendo vendido na Europa até o ano 2000.</p>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <img src="https://setcesp.org.br/wp-content/uploads/2019/09/caminh%C3%A3o.png" style="width: 100%; height: 100%" class="d-block w-100" alt="...">
+            <div class="carousel-caption d-none d-md-block">
+              <h5 class="card-title">Carreta Granel</h5>
+              <p class="card-text">Carretas com a carroceria graneleira, como o nome já diz, são próprias para o transporte de grãos, como milho e soja, além de fertilizantes e adubos.</p>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <img src="https://i.pinimg.com/originals/7b/0b/71/7b0b711f4b6f0c2a4ac3a3744fb033e2.jpg" style="width: 100%; height: 100%" class="d-block w-100" alt="...">
+            <div class="carousel-caption d-none d-md-block">
+              <h5 class="card-title">Caminhão HR</h5>
+              <p class="card-text">O Hyundai HR é uma camionete da empresa automobilística sul-coreana Hyundai.</p>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <img src="https://coutextransportes.com.br/wp-content/uploads/2021/12/carreta-sider-1000x600.jpg" style="width: 100%; height: 100%" class="d-block w-100" alt="...">
+            <div class="carousel-caption d-none d-md-block">
+              <h5 class="card-title">Carreta Sider</h5>
+              <p class="card-text">arroceria de caminhão que possui lonas retráteis em suas laterais, o que facilita a carga e descarga de materiais de grande volume. <br> É indicada para a acomodação de cargas em palets ou racks, geralmente alimentos e produtos de higiene e limpeza.</p>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <img src="https://blogcaminhao.mercedes-benz.com.br/wp-content/uploads/2018/07/MBC_Blog_menor_01.png" style="width: 100%; height: 100%" class="d-block w-100" alt="...">
+            <div class="carousel-caption d-none d-md-block">
+              <h5 class="card-title">Caminhão 3/4</h5>
+              <p class="card-text">O que é Caminhão 3/4 ou VUC? O caminhão 3/4 ou VUC é um modelo de veículo indicado para transportes que são realizados em grandes centros urbanos, com capacidade para aguentar até 3 toneladas, e por determinação do DENATRAN deve ter 2 eixos simples.</p>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <img src="https://sidcartransportes.com.br/wp-content/uploads/2020/04/Caminh%C3%A3o-Truck-pag.jpg" alt="">
+            <div class="carousel-caption d-none d-md-block rounded mx-auto d-block">
+              <h5>Truck Aberto</h5>
+              <p class="card-text">Esse tipo de caminhão truck é ideal para produtos que exigem uma carga e descarga fácil. <br> Como o transporte de cargas secas em geral, mercadorias encaixotadas e paletizadas, chapas e barras de aço e engradados.</p>
+            </div>
+          </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
